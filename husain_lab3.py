@@ -4,9 +4,11 @@
 Created on Fri Sep 23 19:20:39 2022
 
 @author: Maajid
+@GitHub: https://github.com/maajidhusain/Maajid-Husain-DS-2002/blob/main/husain_lab3.py
 """
 
 import sqlite3
+
 #%%
 """
 Initializing the connection to the SQL database using SQLite
