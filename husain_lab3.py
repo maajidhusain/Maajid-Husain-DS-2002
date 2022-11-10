@@ -34,7 +34,6 @@ cur.execute("""CREATE TABLE IF NOT EXISTS orders(
    total TEXT);
 """)
 conn.commit()
-
 #%%
 """
 Adding in Data with SQLite
